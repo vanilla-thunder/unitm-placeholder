@@ -1,0 +1,13 @@
+{
+  "name": "unitm/placeholder",
+  "description": "no",
+  "version": "0.0.1",
+  "homepage": "https://www.unit-m.de",
+  "license": [ "proprietary" ],
+  "authors": [
+    {
+      "name": "Unit M GmbH",
+      "email": "no@no.no"
+    }
+  ]
+}
